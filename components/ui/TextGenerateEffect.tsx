@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 
 // Keep the two lines separate
-const lines = ["Hi! I'm Dozie, a Web Developer", "based in Nigeria."];
+const lines = ["Hi! I'm Chidozie, a Web Developer", "based in Nigeria."];
 
 const container = {
   hidden: { opacity: 0 },
