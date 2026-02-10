@@ -72,15 +72,15 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Kennedy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kennnedy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kennedy is the ideal partner.",
-    name: "Favour",
-    title: "Frontend Developer",
+      "Collaborating with Dozie was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dozie's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dozie is the ideal partner.",
+    name: "Kennedy",
+    title: "Frontend Developer at Auxano solutions",
   },
   {
     quote:
-      "Collaborating with Kennedy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kennedy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kennedy is the ideal partner.",
+      "Collaborating with Dozie was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dozie's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dozie is the ideal partner.",
     name: "Michael",
-    title: "Fullstack Developer",
+    title: "Fullstack Developer at Genesys",
   },
 ];
 

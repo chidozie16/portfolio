@@ -22,20 +22,22 @@ const Hero = () => {
            *
            *  change md:text-6xl, add more responsive code
            */}
-          <div className="flex flex-col items-center">
+          <div>
             <TextGenerateEffect />
-
-            <p className="text-center text-white md:tracking-wider mb-4 text-sm">
-              I am a Frontend Developer with over a year of experience in the
-              field. Throughout my career, I have had the priviledge of
-              collaborating with prestigious organizations,contributing to their
-              success and growth
+            <p className="text-center text-white sm:w-60% md:tracking-wider mb-4 text-sm">
+              I am a Web Developer with over a year of experience in the field.
+              <br />
+              Throughout my career, I have had the priviledge of collaborating{" "}
+              <br />
+              with prestigious organizations, contributing to their success and
+              growth
             </p>
             <p className="text-center text-white md:tracking-wider mb-4 text-sm">
               My passion for web development is not only reflected in my
-              extensive experience but also in the enthusiasm and dedication I
-              bring to each project
+              extensive <br /> experience but also in the enthusiasm and
+              dedication I bring to each project
             </p>
+
             <div className="flex flex-row gap-6">
               <a
                 href="#projects"
